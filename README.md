@@ -6,10 +6,10 @@ List of courses included in the specialization:
     * [What is Data Science?](https://www.coursera.org/account/accomplishments/certificate/XBWWVWY4PXC3)
     * [Tools for Data Science.](https://www.coursera.org/account/accomplishments/certificate/3V7HZKW5K86L)
     * [Data Science Methodology.](https://www.coursera.org/account/accomplishments/certificate/NKU5G6QN2UDY)
+    * [Python for Data Science and AI](https://www.coursera.org/account/accomplishments/certificate/TH4VHSMXSKV6)
 
 * Yet to complete:
 
-    * Python for Data Science and AI.
     * Databases and SQL for Data Science.
     * Data Analysis with Python
     * Data Visualization with Python
