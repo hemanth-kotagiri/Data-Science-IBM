@@ -15,3 +15,5 @@ List of courses included in the specialization:
     * Data Visualization with Python
     * Machine Learning with Python
     * Applied Data Science Capstone
+
+![GitHub Logo](../certifications and badges/logo.png)
